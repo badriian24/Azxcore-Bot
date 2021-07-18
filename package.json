@@ -1,0 +1,31 @@
+{
+  "name": "azxcore-bot",
+  "version": "1.0.0",
+  "description": "hummm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "jasa"
+  ],
+  "author": "bdrxzzzz",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "erela.js": "^2.3.3",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.8",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4"
+  }
+}
