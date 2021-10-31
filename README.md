@@ -1,5 +1,5 @@
-# Azxcore Bot Discord
-## What This is bot?
+## Azxcore Bot Discord
+### What This is bot?
 *This bot is make with discord.js v12*
 
-## How to wo?
+### How to wo?
