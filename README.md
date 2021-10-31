@@ -9,7 +9,7 @@
 ```
 npm install
 ```
-- conguration a bot in [this](
+- conguration a bot in [this](https://github.com/badriian24/Azxcore-Bot/blob/main/configs/config.json)
 - set your token in `.env` file 
 ```
 TOKEN=YouTokenBot
